@@ -1,6 +1,6 @@
 # Capstone_Project_2_Retail_Sales_Prediction_Kartik_Pisudde# Retail-Sales-Prediction
-<p align="center"> 
-  <img src="image\salesgraph.png" alt="Sales Logo.png" width="280px" height="140px">
+![Uploading 37235455-ada03b6a-23b3-11e8-9a53-0df7a4b704bc.jpg…]()
+
 </p>
 <h1 align="center"> Retail Sales Prediction </h1>
 <h3 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
