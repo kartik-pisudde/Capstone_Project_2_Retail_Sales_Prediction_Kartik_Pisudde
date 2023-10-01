@@ -67,7 +67,7 @@ The outliers in the dataset showed justifiable behaviour. The outliers were eith
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Pranav Balpande > | Data Science Trainee AlmaBetter, Bangalore
+< Kartik Pisudde > | Data Science Trainee AlmaBetter, Bangalore
 
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
