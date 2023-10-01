@@ -1,5 +1,6 @@
 # Capstone_Project_2_Retail_Sales_Prediction_Kartik_Pisudde# Retail-Sales-Prediction
-![Uploading 37235455-ada03b6a-23b3-11e8-9a53-0df7a4b704bc.jpg…]()
+![37235455-ada03b6a-23b3-11e8-9a53-0df7a4b704bc](https://github.com/kartik-pisudde/Capstone_Project_2_Retail_Sales_Prediction_Kartik_Pisudde/assets/117140067/58d0bd69-b035-4bff-ace4-02a557cef0c1)
+
 
 </p>
 <h1 align="center"> Retail Sales Prediction </h1>
